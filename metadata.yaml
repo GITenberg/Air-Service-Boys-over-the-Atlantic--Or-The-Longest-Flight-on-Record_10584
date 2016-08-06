@@ -1,0 +1,28 @@
+_repo: Air-Service-Boys-over-the-Atlantic--Or-The-Longest-Flight-on-Record_10584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beach, Charles Amory
+    gutenberg_agent_id: '2050'
+    url: http://www.gutenberg.org/2009/agents/2050
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Aerial operations -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Air pilots -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Raymond, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Parmly, Jack (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Airplanes -- Piloting -- Juvenile fiction'
+- GITenberg
+title: Air Service Boys over the Atlantic; Or, The Longest Flight on Record
+url: http://www.gutenberg.org/ebooks/10584
